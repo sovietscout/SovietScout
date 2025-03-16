@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Ritobhash**, a student of economics with interests in development, finance, political science, and philosophy. This page is a humble attempt at distilling data and policy for the insights for the layman.
+I'm **Ritobhash**, a student of economics with interests in development, political science, and philosophy. This page is a humble attempt at distilling data and policy into insights for the layman.
 
-#### **What I Do**  
-- **Skills:** Python, R, Julia, SQL, Stata, Tableau, Power BI, and the Microsoft Office Suite.  
-- **Interests:** Data analysis, policy research, voting theory.  
-- **Projects:** I’m currently working on exploring spatial voting models and quantifying electorates.  
+#### **About Me**  
+- **Skills:** Proficient in Python, R, Julia, SQL, Stata, Tableau, and Power BI.  
+- **Interests:** Data analysis, policy research, and voting theory.  
+- **Current Work:** Exploring spatial voting models and quantifying electorates.  
 
-#### **What You’ll Find Here**  
+#### **My Work**  
 - **Data Projects:** Exploratory data analysis to visualisations using Python, R and Julia.
-- **Policy Analysis:** I enjoy applying economic and political theory to real-world problems, especially in the context of development and welfare.  
-- **Learning in Public:** I’m always experimenting with new tools and techniques, and I share my progress here.  
+- **Policy Analysis:** Applying economic and political theory to real-world issues, especially in development and welfare.  
+- **Learning in Public:** Experimenting with new tools and techniques, sharing my progress along the way.  
